@@ -6,4 +6,5 @@ body{
 
 .center{
   text-align: center;
+  background-size: cover;
 }
