@@ -9,6 +9,7 @@
   "author": "dennis Muturia",
   "license": "ISC",
   "devDependencies": {
+    "browserify": "^14.4.0",
     "gulp": "^3.9.1"
   }
 }
