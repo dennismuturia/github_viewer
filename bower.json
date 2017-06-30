@@ -1,0 +1,17 @@
+{
+  "name": "friday",
+  "description": "IP project",
+  "main": "index.js",
+  "authors": [
+    "dennis Muturia"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
