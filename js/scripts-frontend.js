@@ -9,7 +9,6 @@ $(document).ready(function() {
 
     console.log(nameObj.Apis());
 
-    //console.log();
     nameObj.numRepos();
     //console.log(nameObj);
   });

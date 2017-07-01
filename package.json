@@ -9,6 +9,8 @@
   "author": "dennis Muturia",
   "license": "ISC",
   "devDependencies": {
+    "bower-files": "^4.0.0",
+    "browser-sync": "^2.18.12",
     "browserify": "^14.4.0",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
