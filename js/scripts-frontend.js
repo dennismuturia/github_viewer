@@ -10,6 +10,11 @@ $(document).ready(function() {
     console.log(nameObj.Apis());
 
     nameObj.numRepos();
+    $('#show-output').empty();
+    $('#show-output1').empty();
+    $('#show-output2').empty();
+    $('#show-output3').empty();
     //console.log(nameObj);
+
   });
 });
